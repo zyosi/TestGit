@@ -9,7 +9,7 @@ class Sample3
 		Iviecle [] ivc;
 		ivc = new Iviecle[2];
 		
-		ivc[0] = new Car2(12345, 15.5);
+		ivc[0] = new Car2(5555, 15.5);
 		ivc[1] = new Plane2(66689);
 		
 		for (int i=0; i<ivc.length; i++) {
